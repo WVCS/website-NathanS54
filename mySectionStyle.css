@@ -1,0 +1,41 @@
+body{
+    background-color: #9CF6F6;
+}
+h1{
+  font-size:400%;
+  letter-spacing:10px;
+  color:#FF7477;
+  text-decoration: underline;
+  text-decoration-color
+  font-family: "Helvetica";
+  
+}
+p{
+    font-size: 278%;
+    color:#FF7477;
+}
+img{
+  wdith: 400x;
+}
+iframe{
+  
+}
+ul{
+  text-alighn: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  color: #CEB5B7;
+  text-decoration: none;
+  font-family: "Lucidia Handwriting";
+  border: dashed;
+}
+li a:hover{
+  background-color: #FF7477;
+  color: white;
+}
